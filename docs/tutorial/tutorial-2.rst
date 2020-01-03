@@ -156,7 +156,7 @@ define objects in a heirarchy - in HTML, the objects are ``<div>``, ``<span>``,
 and other DOM elements; in Toga, they're widgets and boxes. You can then assign
 styles to the individual elements. In this case, we're indicating that this is
 a ``COLUMN`` box - that is, it is a box that will consume all the available
-width, and will expand it's height as content is added, but it will try to be
+width, and will expand its height as content is added, but it will try to be
 as short as possible.
 
 Next, we define a couple of widgets::
